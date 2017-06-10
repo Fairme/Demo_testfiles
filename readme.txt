@@ -1,4 +1,2 @@
 add..
-<<<<<<< HEAD
-haoba,four
->>>>>>> feature1
+no---offf
