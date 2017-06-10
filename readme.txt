@@ -1,2 +1,4 @@
 add..
-hahaha ++  add three¡£
+<<<<<<< HEAD
+haoba,four
+>>>>>>> feature1
